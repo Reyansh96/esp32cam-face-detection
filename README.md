@@ -1,7 +1,7 @@
 # esp32cam-face-detection
 esp32cam face detection
 
-STEP-1
+STEPS FOR FACE DETECTION IN ESP32-CAM
 
 Go to Arduino IDE
 
